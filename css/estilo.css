@@ -7,11 +7,18 @@
 
 body{
     background-color: antiquewhite;
-    margin: auto;
+  /*  margin: auto;
     width: 600px;
-    height: 500px;
+    height: 500px;*/
 }
 img{
     float: left;
     padding: 5px;
+}
+main{
+    background-color: rgb(204, 140, 57);
+    margin: auto;
+    width: 600px;
+    height: 500px;
+
 }
