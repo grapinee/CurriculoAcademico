@@ -7,9 +7,17 @@
 
 body{
     background-color: antiquewhite;
-  /*  margin: auto;
-    width: 600px;
-    height: 500px;*/
+    padding-top: 10px;
+  
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin-top: 10px;
+    text-align: justify;
+}
+p{
+    text-indent: 10px;
 }
 img{
     float: left;
@@ -18,6 +26,7 @@ img{
 main{
     background-color: rgb(204, 140, 57);
     margin: auto;
+    padding: 8px;
     width: 600px;
     height: 500px;
 
