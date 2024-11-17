@@ -7,8 +7,10 @@
 
 body{
     background-color: antiquewhite;
-    padding-top: 10px;
-  
+    padding-top: 10px;  
+}
+article{
+    background-color: aqua;
 }
 h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -29,5 +31,4 @@ main{
     padding: 8px;
     width: 600px;
     height: 500px;
-
 }
